@@ -191,7 +191,7 @@ export default function PrimarySearchAppBar({inventory}) {
                         id="combo-box"
                         options={inventory.map(item => item.name)}
                         sx={{ width: 300 }}
-                        renderInput={(params) => <TextField {...params}/>}
+                        renderInput={(params) => (<TextField {...params}/>)}
                       />
                       
                   </Search>

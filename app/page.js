@@ -1,5 +1,5 @@
 'use client'
-import Search from '../components'
+import Search from '../components/search'
 import {useState, useEffect} from 'react'
 import {firestore} from '@/firebase'
 import {
