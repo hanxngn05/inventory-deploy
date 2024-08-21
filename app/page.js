@@ -1,5 +1,5 @@
 'use client'
-import Search from '../components/search'
+import Search from '../components/Search'
 import {useState, useEffect} from 'react'
 import {firestore} from '@/firebase'
 import {
@@ -11,7 +11,6 @@ import {
   Button,
 } from '@mui/material'
 import {collection, getDocs, query, setDoc, doc, getDoc, deleteDoc,} from 'firebase/firestore'
-import Autocomplete from '@mui/material/Autocomplete'
 
 export default function Home() {
   // variables for inventory stocking
