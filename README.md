@@ -7,12 +7,15 @@ This website is designed for supermarket workers to manage inventories and take 
 ## Website
 You can access the live website [here](https://inventory-deploy-i3b9kyeze-han-nguyens-projects-1b96cbb3.vercel.app/)!
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![Website Demonstration](/inventory-management/webdemo.gif)
 
 ## Project Status
 This project is currently actively being worked on as of Saturday, Aug 24, 2024.
 =======
 
+=======
+>>>>>>> ee8559e182612ca6972dec5beedd56780833a436
 ![Website Demonstration](/inventory-management/webdemo.gif)
 
 ## Project Status
