@@ -12,4 +12,3 @@ You can access the live website [here](https://inventory-deploy-i3b9kyeze-han-ng
 ## Project Status
 This project is currently actively being worked on as of Saturday, Aug 23, 2024.
 
-# inventory-management
